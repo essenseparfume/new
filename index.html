@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="uk">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y0T70NH7CZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-Y0T70NH7CZ');
+</script>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Essense-Інтернет магазин парфумів та ароматів</title>
+<meta name="description" content="ESSENSE — парфуми та аромати. Знижки до 50%.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="loader"><div class="loader-logo">ESSENSE</div><div class="loader-sub">PARFUMS</div><div class="loader-line"><span></span></div></div>
+
+<div class="sale-bar"><button aria-label="Попередня">‹</button><span>ОСТАННІЙ ТИРАЖ <b>ДО -50%</b> НА ПОПУЛЯРНІ АРОМАТИ</span><button aria-label="Наступна">›</button></div>
+<header class="site-header">
+  <button class="header-icon menu-btn" id="menuBtn" aria-label="Меню"><i></i><i></i><i></i></button>
+  <button class="header-icon search-btn" id="searchBtn" aria-label="Пошук"><svg viewBox="0 0 32 32"><circle cx="13" cy="13" r="9"></circle><path d="M20 20l8 8"></path></svg></button>
+  <a class="brand-logo" href="index.html"><span>ESSENSE</span><small>PARFUMS</small></a>
+  <a class="header-icon heart-link" href="favorites.html" aria-label="Обране"><svg viewBox="0 0 32 32"><path d="M16 27S4 20 4 11.5C4 7.5 6.8 5 10.3 5c2.4 0 4.6 1.4 5.7 3.3C17.1 6.4 19.3 5 21.7 5 25.2 5 28 7.5 28 11.5 28 20 16 27 16 27z"></path></svg><b id="favCount">0</b></a>
+  
+</header>
+
+<div class="search-panel" id="searchPanel" aria-hidden="true"><div class="search-inner"><div class="search-top"><span class="search-label">ПОШУК</span><button id="closeSearch" type="button" aria-label="Закрити пошук">×</button></div><div class="search-field"><svg viewBox="0 0 32 32"><circle cx="13" cy="13" r="9"></circle><path d="M20 20l8 8"></path></svg><input id="searchInput" type="search" placeholder="Що ви шукаєте?" autocomplete="off"></div></div></div>
+<div class="drawer-backdrop" id="drawerBackdrop"></div>
+<aside class="drawer" id="drawer"><button id="closeDrawer">×</button><div class="drawer-logo">ESSENSE<small>PARFUMS</small></div><a href="index.html">Головна</a><a href="#catalog">Каталог</a><a href="favorites.html">Обране</a><a href="cart.html">Кошик</a><a href="#contacts">Контакти</a></aside>
+
+<main>
+<section class="hero">
+  <div class="hero-photo"><img src="images/IMG_4388.jpeg" alt="ESSENSE аромат"></div>
+  <div class="hero-shade"></div>
+  <div class="sale-circle"><small>SALE</small><strong>-50%</strong></div>
+  <div class="hero-copy"><p>ESSENSE PARFUMS</p><h1>Знижки до -50%<br>на улюблені аромати</h1><span></span><small>БІЛЬШЕ, НІЖ АРОМАТ</small></div>
+</section>
+
+<section class="contact-strip" id="contacts">
+  <div class="section-kicker"><span></span><b>МИ НА ЗВ'ЯЗКУ</b><span></span></div>
+  <div class="phones">
+    <a href="tel:+380731711773"><small>ТЕЛЕФОН</small><strong>+380 73 171 17 73</strong></a>
+    <a href="tel:+380731711770"><small>ТЕЛЕФОН</small><strong>+380 73 171 17 70</strong></a>
+  </div>
+  <div class="social-links">
+    <a href="https://t.me/essenseparfumeua" target="_blank" rel="noopener"><span>TELEGRAM</span><strong>@essenseparfumeua</strong></a>
+    <a href="https://www.tiktok.com/@essenseparfum1" target="_blank" rel="noopener"><span>TIKTOK</span><strong>@essenseparfum1</strong></a>
+  </div>
+  <p>Напишіть нам або зателефонуйте — допоможемо обрати аромат.</p>
+</section>
+
+<section class="intro"><p>Обрати аромат простіше, ніж здається. Почніть з популярних композицій — вони підходять більшості. Спробувати зараз вигідніше: обрані парфуми до -50%.</p></section>
+
+<section id="catalog" class="catalog-section">
+  <div class="catalog-title"><div><span>ESSENSE COLLECTION</span><h2>Популярні аромати</h2></div><a href="favorites.html">♡ Обране</a></div>
+  <div class="mobile-controls"><button id="mobileFilter">☷ &nbsp; Фільтр</button><button id="mobileSort">↑↓ &nbsp; Сортувати</button></div>
+  <div class="filters" id="filters"><div><label>Бренд</label><select id="brandFilter"><option value="all">Усі бренди</option></select></div><div><label>Ціна, грн</label><div class="price-inputs"><input id="minPrice" type="number" placeholder="від"><span>—</span><input id="maxPrice" type="number" placeholder="до"></div></div><div><label>Сортування</label><select id="sortFilter"><option value="default">За популярністю</option><option value="cheap">Від дешевих</option><option value="expensive">Від дорогих</option><option value="az">За назвою А–Я</option></select></div><button id="resetFilters">Скинути</button></div>
+  <div id="searchInfo" class="search-info"></div><div id="products" class="grid"></div>
+</section>
+</main>
+<footer><div class="footer-logo">ESSENSE <small>PARFUMS</small></div><div><a href="tel:+380731711773">+380 73 171 17 73</a><a href="tel:+380731711770">+380 73 171 17 70</a></div><p>© 2026 ESSENSE</p></footer>
+<nav class="bottom-nav"><a href="index.html"><span>⌂</span>Головна</a><a href="index.html#catalog"><span>⌕</span>Пошук</a><a href="favorites.html"><span>♡</span>Обране</a><a href="cart.html"><span><svg class="nav-cart-svg" viewBox="0 0 32 32" aria-hidden="true"><path d="M4 6h4l2.2 14.2a2 2 0 0 0 2 1.8h10.7a2 2 0 0 0 2-1.7L27 10H9" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="13" cy="26" r="1.8" fill="currentColor"/><circle cx="23" cy="26" r="1.8" fill="currentColor"/></svg></span>Кошик</a></nav>
+<div id="toast"></div><script src="script.js"></script>
+</body></html>
