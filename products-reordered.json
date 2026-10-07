@@ -1,0 +1,542 @@
+[
+  {
+    "id": 37,
+    "name": "Stronger With You",
+    "brand": "EMPORIO ARMANI",
+    "image": "images/Stronger-With-You.jpeg",
+    "price": 699,
+    "oldPrice": 999,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Le Male Le Parfum",
+    "brand": "JEAN PAUL GAULTIER",
+    "image": "images/JPG-Le-Male-Le-Parfum.jpeg",
+    "price": 699,
+    "oldPrice": 999,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Born In Roma Extradose",
+    "brand": "VALENTINO",
+    "image": "images/IMG_4219.jpeg",
+    "price": 699,
+    "oldPrice": 1099,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Essentials Sport",
+    "brand": "LACOSTE",
+    "image": "images/IMG_4388.jpeg",
+    "price": 699,
+    "oldPrice": 999,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Scandal Pour Homme",
+    "brand": "JEAN PAUL GAULTIER",
+    "image": "images/IMG_4354.jpeg",
+    "price": 749,
+    "oldPrice": 1199,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Stronger With You Absolutely",
+    "brand": "EMPORIO ARMANI",
+    "image": "images/IMG_4212.jpeg",
+    "price": 699,
+    "oldPrice": 1099,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Chanel Platinum",
+    "brand": "CHANEL",
+    "image": "images/IMG_4349.jpeg",
+    "price": 699,
+    "oldPrice": 999,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Cristian Dior Sauvage",
+    "brand": "DIOR",
+    "image": "images/IMG_4386.jpeg",
+    "price": 699,
+    "oldPrice": 1099,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Stronger With You Intensely",
+    "brand": "EMPORIO ARMANI",
+    "image": "images/IMG_4225(1).jpeg",
+    "price": 699,
+    "oldPrice": 1099,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Born In Roma",
+    "brand": "VALENTINO",
+    "image": "images/IMG_4220.jpeg",
+    "price": 699,
+    "oldPrice": 1099,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Stronger With You Sandalwood",
+    "brand": "EMPORIO ARMANI",
+    "image": "images/IMG_4336(2).jpeg",
+    "price": 749,
+    "oldPrice": 1099,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Phantom",
+    "brand": "PACO RABANNE",
+    "image": "images/IMG_4342.jpeg",
+    "price": 749,
+    "oldPrice": 1099,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Le Male",
+    "brand": "JEAN PAUL GAULTIER",
+    "image": "images/IMG_4339.jpeg",
+    "price": 749,
+    "oldPrice": 1199,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Born In Roma Green Stravaganza",
+    "brand": "VALENTINO",
+    "image": "images/962D4FF2-1B88-4139-A26D-5123920C9D1D.jpeg",
+    "price": 699,
+    "oldPrice": 1099,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Acqua Di Gio",
+    "brand": "GIORGIO ARMANI",
+    "image": "images/IMG_4333.jpeg",
+    "price": 699,
+    "oldPrice": 1099,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Scandal Absolu",
+    "brand": "JEAN PAUL GAULTIER",
+    "image": "images/IMG_4341(1).jpeg",
+    "price": 749,
+    "oldPrice": 1199,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Creed Aventus",
+    "brand": "CREED",
+    "image": "images/IMG_4338(1).jpeg",
+    "price": 749,
+    "oldPrice": 1099,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Bleu de Chanel",
+    "brand": "CHANEL",
+    "image": "images/IMG_4227.jpeg",
+    "price": 699,
+    "oldPrice": 999,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Le Male Elixir",
+    "brand": "JEAN PAUL GAULTIER",
+    "image": "images/IMG_4337.jpeg",
+    "price": 749,
+    "oldPrice": 1099,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Versace Eros",
+    "brand": "VERSACE",
+    "image": "images/639FF558-4F74-43AA-AA2B-3D1D66D81A20.jpeg",
+    "price": 699,
+    "oldPrice": 1099,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "One Milion",
+    "brand": "PACO RABANNE",
+    "image": "images/EEDBFE7D-70C5-46CB-8033-BF35FD8D6C62.jpeg",
+    "price": 699,
+    "oldPrice": 1099,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Le Parfum",
+    "brand": "JEAN PAUL GAULTIER",
+    "image": "images/IMG_4335(1).jpeg",
+    "price": 749,
+    "oldPrice": 1199,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Tabacco Vanille",
+    "brand": "TOM FORD",
+    "image": "images/IMG_4340.jpeg",
+    "price": 699,
+    "oldPrice": 1099,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Invictus Onyx",
+    "brand": "PACO RABANNE",
+    "image": "images/IMG_4334.jpeg",
+    "price": 749,
+    "oldPrice": 1199,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів. Натисни на товар, щоб переглянути деталі та додати його в кошик.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "K Eau de Toilette",
+    "brand": "DOLCE & GABBANA",
+    "image": "images/DG-K.jpeg",
+    "price": 699,
+    "oldPrice": 999,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Lacoste Essential",
+    "brand": "LACOSTE",
+    "image": "images/Lacoste-Essential.jpeg",
+    "price": 699,
+    "oldPrice": 999,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Allure Homme Sport",
+    "brand": "CHANEL",
+    "image": "images/Chanel-Allure-Homme-Sport.jpeg",
+    "price": 699,
+    "oldPrice": 999,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "L.12.12 Blanc",
+    "brand": "LACOSTE",
+    "image": "images/Lacoste-L1212-Blanc.jpeg",
+    "price": 699,
+    "oldPrice": 999,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Sauvage Rouge Elixir",
+    "brand": "DIOR",
+    "image": "images/Dior-Sauvage-Rouge-Elixir.jpeg",
+    "price": 699,
+    "oldPrice": 999,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Blue Seduction",
+    "brand": "ANTONIO BANDERAS",
+    "image": "images/Antonio-Banderas-Blue-Seduction.jpeg",
+    "price": 699,
+    "oldPrice": 999,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Pour Homme",
+    "brand": "GIVENCHY",
+    "image": "images/Givenchy-Pour-Homme.jpeg",
+    "price": 699,
+    "oldPrice": 999,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Blue Label",
+    "brand": "GIVENCHY",
+    "image": "images/Givenchy-Blue-Label.jpeg",
+    "price": 699,
+    "oldPrice": 999,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Fahrenheit",
+    "brand": "DIOR",
+    "image": "images/Dior-Fahrenheit.jpeg",
+    "price": 699,
+    "oldPrice": 999,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Invictus",
+    "brand": "PACO RABANNE",
+    "image": "images/Paco-Rabanne-Invictus.jpeg",
+    "price": 699,
+    "oldPrice": 999,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Hugo",
+    "brand": "HUGO BOSS",
+    "image": "images/Hugo-Boss-Bottled.jpeg",
+    "price": 699,
+    "oldPrice": 999,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Yellow Diamond",
+    "brand": "VERSACE",
+    "image": "images/Versace-Yellow-Diamond.jpeg",
+    "price": 699,
+    "oldPrice": 999,
+    "rating": 4.9,
+    "description": "Популярний аромат для щоденного використання та особливих моментів.",
+    "notes": [
+      "Верхні ноти",
+      "Середні ноти",
+      "Базові ноти"
+    ]
+  }
+]
